@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]([src](https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/287492659_143289364965783_87426901019473368_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=tbkDg9kClucAX9UOF_V&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT9soWaQ-qj2u49p9Z8evadOfsOo8emvpDvy8-7L4jkhEQ&oe=62B355DD))
+[Link](url) and ![Image]([https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/287492659_143289364965783_87426901019473368_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=tbkDg9kClucAX9UOF_V&_nc_ht=scontent.fsgn5-13.fna&oh=00_AT9soWaQ-qj2u49p9Z8evadOfsOo8emvpDvy8-7L4jkhEQ&oe=62B355DD])
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
